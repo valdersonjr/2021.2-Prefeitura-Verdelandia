@@ -1,0 +1,17 @@
+site_name: "Prefeitura de Verdelândia"
+theme:
+  name: material
+  logo: assets/logo.png
+  language: pt
+  palette:
+    primary: spring green
+    accent: spring green
+
+extra_css:
+  - style.css
+
+nav:
+  - Início: index.md
+  - Documentação:
+      - Cronograma do Projeto: documentos/Cronograma.md
+
