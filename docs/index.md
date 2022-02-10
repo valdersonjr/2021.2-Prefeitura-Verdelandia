@@ -7,12 +7,6 @@
   Este repositório tem como objetivo apresentar e documentar o Projeto do Grupo 3, da Disciplina
   Interação Humano Computador, ministrada pelo Professor André Barros de Sales.
 
-## Versões da Documentação
-
-| Data  | Versão | Arquivos  | Descrição | Autor |
-| :--:  | :----: | :------:  | :-------: | :---: |
-| 09/02 | 1.0.0  | README, Index, Cronograma | Criação da Documentação | Antônio, Rodrigo |
-
 ## Equipe:
 
 | Foto | Nome            | GitHub      | E-mail       | 
@@ -23,3 +17,10 @@
 | <img width='80' src='https://github.com/ErickLevy.png'> | Erick Levy Barbosa dos Santos | [ErickLevy](https://github.com/ErickLevy) | erickfga23@gmail.com | 
 |  <img width='60' src='https://github.com/Rocsantos.png' alt='Imagem de perfil'> | Rodrigo Carvalho dos Santos | [Rocsantos](https://github.com/Rocsantos) | ro12062000@gmail.com |
 | <img width='80' src='https://github.com/valdersonjr.png'> | Valderson Pontes da Silva Junior | [Jusnim7](https://github.com/valdersonjr) | valdersonpontes@gmail.com | 
+
+## Histórico de versionamento
+
+| Data  | Versão | Descrição | Autor |
+| :--:  | :----: | :-------: | :---: |
+| 09/02 | 1.0.0  | Criação da página inicial | Rodrigo |
+| 10/02 | 1.0.1  | Alteração do formato de histórico de versionamento | Antonio |
