@@ -14,7 +14,7 @@
 ## Tabela de tarefas 
 
 ### Sprint 1
-| Tarefas         | Responsável | Revisor   | Engrega Prevista |
+| Tarefas         | Responsável | Revisor   | Entrega Limite |
 | :-----:         | :---------: | :-----:   | :--------------: |
 | Implementação do GitHub Pages    | Rodrigo	    | Eliseu    | 11/02            |
 | Descrição dos processos de design | Levi	      | Levi      | 11/02            |
