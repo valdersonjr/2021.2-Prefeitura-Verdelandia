@@ -20,6 +20,7 @@
 | Descrição dos processos de design | Levi	      | Levi      | 11/02            |
 | Descrição das metodologias | Eliseu      | Antonio   | 11/02            |
 | Criação do Cronograma | Antonio     | Valderson | 11/02            |
+| Criação das Ferramentas | Douglas     | Levi | 11/02            |
 | Organização dos planejamentos de avaliação dos membros | Valderson   | Rodrigo   | 11/02            |
 | Gravação da apresentação 1  | Todos       | Todos     | 13/02            |
 
