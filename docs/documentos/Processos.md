@@ -1,5 +1,5 @@
 # Processos de Design
-
+---------------------------------------------------------------
 ## 1. O que e processo de design ?
 
 Processo de Design e a junção de atividades básicas como analíse de situação, a sintese de uma intervenção projetada ou ja aplicada a situação atual do projeto.Em cada processo detalha as atividades basicas: executar cada atividade, sequência a serem executadas, atividades a serem repetidas, arfetafos consumidos e produzidos em cada uma delas
@@ -24,9 +24,9 @@ O ciclo de vida em estrela foi desenvolvido por Hix e Harston em 1993, sendo com
 - **Avaliaçãoo:** E o modo central do Ciclo de vida em estrela, ela deve verificar os dados coletados tanto na atividade de análise e os requisistos especificados se estão de acordo com as necessidades e realidade dos usuários.
 
 
-### Engenharia de Usabilidade de Nielsen
+### 2. Engenharia de Usabilidade de Nielsen
 Nielsen definiu como um conjunto de atividades que devem ser feitas durante o processo de vida do produto.
-####  Atividades:
+#### 2.1  Atividades:
 - **Conhecer o usuário**
 - **Realizar uma análise competitiva**
 - **Definição das metas de usabilidades**
@@ -41,7 +41,7 @@ Nielsen definiu como um conjunto de atividades que devem ser feitas durante o pr
 
 
 
-### Engenharia de Usabilidade de Mayhew
+### 3. Engenharia de Usabilidade de Mayhew
 Mayhew  propôs um ciclo de vida para a engenharia de usabilidade em 1999. Com uma visão
 que busca  compreender os fenômenos na sua totalidade , esse processo de design reúne e organiza diferentes atividades em IHC para orientar o trabalho do designer em  uma boa solução interativa.Mayhem apresentou 3 fases de processos iterativos que este são:
 
@@ -52,16 +52,36 @@ usuários, análisação de tarefas com possibilidades e limitações da platafo
 atenda às metas de usabilidade estabelecidas na fase anterior.
 - **instalação:** designer deve coletar opiniões dos usuários depois de algum tempo de uso pelo usuário.
 
-### Design Contextual
+### 4. Design Contextual
 É um processo  de IHC que orienta o designer a compreender ao fundo as necessidades dos usuários com uma investigação minuciosa do contexto de uso .
 
-##### Atividades de Design contextual:
+##### 4.1. Atividades de Design contextual:
 - **Investigação contextual** 
 - **Modelagem do trabalho**
 - **Consolidação**
 - **Reprojeto do trabalho**
 - **Projeto do ambiente do usuário**
 - **Prototipação e teste com usuários**
+
+### 5. Design Baseado em Cenários
+É um processo que utiliza diferentes tipos de cenários como representação básica e fundamental durante todas as atividades envolvidas na concepção de uma solução de IHC .
+
+### 6. Design Dirigido por Objetivos
+O design dirigido por objetivos é um processo sistemático proposto para investigar e atender às
+necessidades e aos objetivos dos usuários.Guiar o designer a projetar uma solução de IHC que seja criativa e apoie os usuários a atingirem seus objetios, sendo o diferencial incetivar o designar a explorar tecnologias em todo seu potencial para oferecer manerias diversificados para os usuários chegarem aos seus objetivos.Esse processo é dividido em seis fases : pesquisar, modelar, definir requisitos,projetar, refinar e manter.
+
+- **Pesquisa:**  o designer está empenhando em conhecer o usuário e investigar os comportamentos no qual encaminha seus objetivos e motivações nas atividades enquanto manipula alguns artefatos, o domínio do sistema e o contextode uso. 
+
+- **Modelagem:**  tem como  meta organizar e registrar o conhecimento adquirido durante a fase de pesquisa através da criação de modelos do usuário pelo, domínio e contexto de uso.
+
+- **Definição de requisitos:** o designer interpreta as informações coletadas e estruturadas
+nos modelos para definir os requisitos para os usuários, negócios e técnicos.
+
+- **Projetar:** o designer concebe uma solução de interação e um esboço de interface pouco detalhado. Sua preocupação principal está na concepção da estrutura do projeto e do comportamento da interface para o usuário.
+
+- **Refinar e manter:**  É um polimento da documentação detalhada da solução de interação e de interface projetada.Alem de manter a coerência da solução proposta enquanto acomoda as limitações técnicas imprevistas.
+
+
 
 
 
