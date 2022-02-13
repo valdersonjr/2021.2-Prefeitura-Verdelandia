@@ -90,8 +90,14 @@ O design centrado na comunicação (Barbosa et al., 2005) tem como base teórica
 - **Projeto de interação e interface:**  A avaliação deste Design e focado na comuniação do usuário para alcançar seus objetivos sendo projetada para eles,mas não por eles.
 
 
-### Conclusão de escolha do tipo de processo de Design
+## Conclusão de escolha do tipo de processo de Design
 
+Nos escolhemos o Mayhem por ser mais compativel com o nosso projeto por ser tratar de um metod que não necessita de um contato direto com os usuarios.
+
+
+## referências
+
+BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Rio de Janeiro, 2021.
 
 
 
