@@ -105,7 +105,7 @@ BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Rio de Janeiro, 20
 | :--:  | :----: | :-------: | :---: |
 | 13/02 | 1.0.0  | Criação do documento de processos de design | Erick Levy |
 | 10/02 | 1.0.1  | Atualização do documento | Antonio Igor |
- 10/02 | 1.0.1  | Atualização do documento | Erick Levy |
+| 10/02 | 1.0.2 | Atualização do documento | Erick Levy |
 
 
 
