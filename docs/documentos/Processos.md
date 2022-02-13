@@ -92,12 +92,19 @@ O design centrado na comunicação (Barbosa et al., 2005) tem como base teórica
 
 ## Conclusão de escolha do tipo de processo de Design
 
-Nos escolhemos o Mayhem por ser mais compativel com o nosso projeto por ser tratar de um metod que não necessita de um contato direto com os usuarios.
+Nos escolhemos o Mayhem por ser mais compativel com o nosso projeto por ser tratar de um método que não necessita de um contato direto com os usuários, facilitando o desenvolvimento do projeto de forma remota.
 
 
 ## referências
 
 BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Rio de Janeiro, 2021.
+
+## Histórico de versionamento
+
+| Data  | Versão | Descrição | Autor |
+| :--:  | :----: | :-------: | :---: |
+| 13/02 | 1.0.0  | Criação do documento de processos de design | Erick Levy |
+| 10/02 | 1.0.1  | Atualização do documento | Antonio |
 
 
 
