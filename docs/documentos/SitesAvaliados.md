@@ -23,7 +23,7 @@
 ### Sugestão: Antonio Igor Carvalho
 
 <figure>
-<img align=center width="250" src="../../assets/logoVerdelandia.png">
+<img align=center width="250" src="../../assets/logo.png">
 <br>
 <figcaption>Fig. 2 - Brasão de Verdelandia</a></figcaption>
 </figure>
