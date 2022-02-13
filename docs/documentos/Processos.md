@@ -1,5 +1,5 @@
 # Processos de Design
----------------------------------------------------------------
+
 ## 1. O que e processo de design ?
 
 Processo de Design e a junção de atividades básicas como analíse de situação, a sintese de uma intervenção projetada ou ja aplicada a situação atual do projeto.Em cada processo detalha as atividades basicas: executar cada atividade, sequência a serem executadas, atividades a serem repetidas, arfetafos consumidos e produzidos em cada uma delas
@@ -25,7 +25,8 @@ O ciclo de vida em estrela foi desenvolvido por Hix e Harston em 1993, sendo com
 
 
 ### Engenharia de Usabilidade de Nielsen
-Nielsen definiu como um conjunto de atividades que devem ser feitas durante o processo de vida do produto. Estas atividades são:
+Nielsen definiu como um conjunto de atividades que devem ser feitas durante o processo de vida do produto.
+####  Atividades:
 - **Conhecer o usuário**
 - **Realizar uma análise competitiva**
 - **Definição das metas de usabilidades**
@@ -37,6 +38,32 @@ Nielsen definiu como um conjunto de atividades que devem ser feitas durante o pr
 - **Criar protótipos**
 - **Realizar teste empíricos**
 - **Praticar Design iterativo**
+
+
+
+### Engenharia de Usabilidade de Mayhew
+Mayhew  propôs um ciclo de vida para a engenharia de usabilidade em 1999. Com uma visão
+que busca  compreender os fenômenos na sua totalidade , esse processo de design reúne e organiza diferentes atividades em IHC para orientar o trabalho do designer em  uma boa solução interativa.Mayhem apresentou 3 fases de processos iterativos que este são:
+
+- **Análise de requisitos:**  são definidas as metas de usabilidade com base no perfil dos
+usuários, análisação de tarefas com possibilidades e limitações da plataforma em que o sistema é executado .
+
+- **design, avaliação e desenvolvimento:**  Objetivo conceber uma solução de IHC que
+atenda às metas de usabilidade estabelecidas na fase anterior.
+- **instalação:** designer deve coletar opiniões dos usuários depois de algum tempo de uso pelo usuário.
+
+### Design Contextual
+É um processo  de IHC que orienta o designer a compreender ao fundo as necessidades dos usuários com uma investigação minuciosa do contexto de uso .
+
+##### Atividades de Design contextual:
+- **Investigação contextual** 
+- **Modelagem do trabalho**
+- **Consolidação**
+- **Reprojeto do trabalho**
+- **Projeto do ambiente do usuário**
+- **Prototipação e teste com usuários**
+
+
 
 
 
