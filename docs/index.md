@@ -23,4 +23,4 @@
 | Data  | Versão | Descrição | Autor |
 | :--:  | :----: | :-------: | :---: |
 | 09/02 | 1.0.0  | Criação da página inicial | Rodrigo |
-| 10/02 | 1.0.1  | Alteração do formato de histórico de versionamento | Antonio |
+| 10/02 | 1.0.1  | Alteração do formato de histórico de versionamento | Antonio Igor |
