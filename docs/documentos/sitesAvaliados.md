@@ -7,7 +7,7 @@
 ### Sugestão: Douglas da Silva Monteles
 
 <figure>
-<img align=center width="250" src="../docs/assets/logoSIGAA.png">
+<img align=center width="250" src="../../assets/logoSIGAA.png">
 <br>
 <figcaption>Fig. 1 - Logo do SIGAA - UNB</a></figcaption>
 </figure>
@@ -23,7 +23,7 @@
 ### Sugestão: Antonio Igor Carvalho
 
 <figure>
-<img align=center width="250" src="../docs/assets/logoVerdelandia.png">
+<img align=center width="250" src="../../assets/logoVerdelandia.png">
 <br>
 <figcaption>Fig. 2 - Brasão de Verdelandia</a></figcaption>
 </figure>
@@ -38,7 +38,7 @@
 ### Sugestão: Valderson Pontes da Silva Júnior
 
 <figure>
-<img align=center width="250" src="../docs/assets/logoLolDodgeGame.png">
+<img align=center width="250" src="../../assets/logoLolDodgeGame.png">
 <br>
 <figcaption>Fig. 3 - Logo do Site LolDodgeGame </a></figcaption>
 </figure>
@@ -57,7 +57,7 @@ Segundo a avaliação de Valderson, os principais problemas de usabilidade são 
 ### Sugestão: Erick Levy Barbosa dos Santos
 
 <figure>
-<img align=center width="250" src="../docs/assets/logoPcDf.png">
+<img align=center width="250" src="../../assets/logoPcDf.png">
 <br>
 <figcaption>Fig. 4 - Brasão da Polícia Civil do Distrito Federal</a></figcaption>
 </figure>
@@ -72,7 +72,7 @@ Segundo a avaliação de Valderson, os principais problemas de usabilidade são 
 ### Sugestão: Rodrigo Carvalho dos Santos
 
 <figure>
-<img align=center width="250" src="../docs/assets/logoPcDf.png">
+<img align=center width="250" src="../../assets/logoPcDf.png">
 <br>
 <figcaption>Fig. 5 - Brasão da Polícia Civil do Distrito Federal</a></figcaption>
 </figure>
@@ -87,7 +87,7 @@ Segundo a avaliação de Valderson, os principais problemas de usabilidade são 
 ### Sugestão: Eliseu Kadesh Rosa Assunção Júnior
 
 <figure>
-<img align=center width="250" src="../docs/assets/logoRPCStudio.png">
+<img align=center width="250" src="../../assets/logoRPCStudio.png">
 <br>
 <figcaption>Fig. 6 - Logo do Website RPC Studio</a></figcaption>
 </figure>
@@ -102,4 +102,4 @@ Segundo a avaliação de Valderson, os principais problemas de usabilidade são 
 
 | Data | Versão | Descrição | Autor |
 | - | - | - | - |
-| 12/02/2022 | 1.0.0 | Criação da tabela de ferramentas. | Valderson Pontes e Antonio Igor |
+| 12/02/2022 | 1.0.0 | Criação da página de sites avaliados. | Valderson Pontes e Antonio Igor |
