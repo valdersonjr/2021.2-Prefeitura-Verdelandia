@@ -20,7 +20,7 @@ O ciclo de vida em estrela foi desenvolvido por Hix e Harston em 1993, sendo com
 - **Especificação de requisitos:**  interpretação da análise, definição de problemas que devem ser resolvidos com uma solução de IHC.
 - **Projeto conceitual e especificação do design:** Solução de IHC e concebida
 - **Implementação:** Sistema interativo final e desenvolvido
-- **Avaliaçãoo:** E o modo central do Ciclo de vida em estrela, ela deve verificar os dados coletados tanto na atividade de análise e os requisistos especificados se estão de acordo com as necessidades e realidade dos usuários.
+- **Avaliação:** E o modo central do Ciclo de vida em estrela, ela deve verificar os dados coletados tanto na atividade de análise e os requisistos especificados se estão de acordo com as necessidades e realidade dos usuários.
 
 
 ### 2. Engenharia de Usabilidade de Nielsen
@@ -105,6 +105,7 @@ BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Rio de Janeiro, 20
 | :--:  | :----: | :-------: | :---: |
 | 13/02 | 1.0.0  | Criação do documento de processos de design | Erick Levy |
 | 10/02 | 1.0.1  | Atualização do documento | Antonio Igor |
+ 10/02 | 1.0.1  | Atualização do documento | Erick Levy |
 
 
 
