@@ -1,7 +1,7 @@
 # Site Escolhido
 
 <figure>
-<img align=center width="750" src="../../assets/logoVerdelandia.png">
+<img align=center width="250" src="../../assets/logoVerdelandia.png">
 <br>
 <figcaption>Figura 1 – Brasão da prefeitura de Verdelândia.</a></figcaption>
 </figure>
@@ -9,8 +9,7 @@
 
 
 ##  Introdução
-<p align="justify"> O site escolhido para ser feito uma avaliação foi o da Prefeitura de Verdelândia-MG,
-http://www.verdelandia.mg.gov.br/. O site possui diversas funcionalidades, assim como informar os moradores da cidade sobre todas as notícias da cidade, informações
+<p align="justify"> O site escolhido para ser feito uma avaliação foi o da [Prefeitura de Verdelândia-MG] (http://www.verdelandia.mg.gov.br). O site possui diversas funcionalidades, assim como informar os moradores da cidade sobre todas as notícias da cidade, informações
 sobre serviços, convênios, contatos, portal da transparência entre outros. </p>
 
 ## Objetivos
@@ -39,3 +38,10 @@ uma usabilidade e acessibilidade pensada para toda a população. </p>
 
 ## Questões Éticas
 <p align="justify"> Em relação às questões éticas, como no método utilizado não há contato direto com usuários o único cuidado tomado foi o de escolher um site pertencente a um orgão público.</p>
+
+## Versionamento
+
+| Data | Versão | Descrição | Autor |
+| - | - | - | - |
+| 11/02/2022 | 1.0.0 | Criação da página do site escolhido. | Valderson Pontes e Antonio Igor |
+| 13/02/2022 | 1.0.1 | Atualização da página. | Valderson Pontes |
