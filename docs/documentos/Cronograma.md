@@ -29,5 +29,5 @@
 
 | Data  | Versão | Descrição | Autor |
 | :--:  | :----: | :-------: | :---: |
-| 09/02 | 1.0.0  | Criação do cronograma | Antonio |
-| 10/02 | 1.0.1  | Alteração no formato do cronograma | Antonio |
+| 09/02 | 1.0.0  | Criação do cronograma | Antonio Igor |
+| 10/02 | 1.0.1  | Alteração no formato do cronograma | Antonio Igor |
