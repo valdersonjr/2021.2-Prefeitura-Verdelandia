@@ -99,6 +99,12 @@ Nos escolhemos o Mayhem por ser mais compativel com o nosso projeto por ser trat
 
 BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Rio de Janeiro, 2021.
 
+## Histórico de versionamento
+
+| Data  | Versão | Descrição | Autor |
+| :--:  | :----: | :-------: | :---: |
+| 13/02 | 1.0.0  | Criação da página Processos | Erick Levy |
+| 13/02 | 1.0.1  | Adicionado Tabela de Versionamento | Rodrigo |
 
 
 
