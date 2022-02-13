@@ -1,7 +1,7 @@
 # Site Escolhido
 
 <figure>
-<img align=center width="250" src="../../assets/logoVerdelandia.png">
+<img align=center width="250" src="../../assets/logo.png">
 <br>
 <figcaption>Figura 1 – Brasão da prefeitura de Verdelândia.</a></figcaption>
 </figure>
