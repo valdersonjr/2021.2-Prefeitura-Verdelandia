@@ -17,8 +17,8 @@
 
 |Data|Versão|Descrição|Autor|
 |-|-|-|-|
-|03/02/2022|1.0.0|Criação da tabela de ferramentas.|[DouglasMonteles]('https://github.com/douglasmonteles')|
-|11/02/2022|1.0.1|Adicionando as imagens.|[DouglasMonteles]('https://github.com/douglasmonteles')|
-|11/02/2022|1.0.2|Adicionando mais algumas ferramentas.|[DouglasMonteles]('https://github.com/douglasmonteles')|
-|11/02/2022|1.0.3|Corringindo a axibição de algumas imagens das ferramentas.|[DouglasMonteles]('https://github.com/douglasmonteles')|
-|12/02/2022|1.0.3|Corringindo o caminho das imagens|[DouglasMonteles]('https://github.com/douglasmonteles')|
+|03/02/2022|1.0.0|Criação da tabela de ferramentas.| Douglas Monteles |
+|11/02/2022|1.0.1|Adicionando as imagens.| Douglas Monteles |
+|11/02/2022|1.0.2|Adicionando mais algumas ferramentas.| Douglas Monteles|
+|11/02/2022|1.0.3|Corringindo a axibição de algumas imagens das ferramentas.| Douglas Monteles |
+|12/02/2022|1.0.3|Corringindo o caminho das imagens| Douglas Monteles |
