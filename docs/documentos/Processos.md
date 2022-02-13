@@ -1,5 +1,4 @@
 # Processos de Design
----------------------------------------------------------------
 ## 1. O que e processo de design ?
 
 Processo de Design e a junção de atividades básicas como analíse de situação, a sintese de uma intervenção projetada ou ja aplicada a situação atual do projeto.Em cada processo detalha as atividades basicas: executar cada atividade, sequência a serem executadas, atividades a serem repetidas, arfetafos consumidos e produzidos em cada uma delas
@@ -80,6 +79,21 @@ nos modelos para definir os requisitos para os usuários, negócios e técnicos.
 - **Projetar:** o designer concebe uma solução de interação e um esboço de interface pouco detalhado. Sua preocupação principal está na concepção da estrutura do projeto e do comportamento da interface para o usuário.
 
 - **Refinar e manter:**  É um polimento da documentação detalhada da solução de interação e de interface projetada.Alem de manter a coerência da solução proposta enquanto acomoda as limitações técnicas imprevistas.
+
+### 7. Design Centrado na Comunicação
+O design centrado na comunicação (Barbosa et al., 2005) tem como base teórica a engenharia semiótica que ve a IHC como uma comunicação mediada por computador entre designers e usuários em tempo de interação. O sistema fala em nome de seus criadores em vários tipos de conversas especificado em tempo de design.
+
+- **Análise:**  O foco da análise e observar cada individuo envolvidos no processo de design.
+
+- **Projeto de interação e interface:**  Elaboração do sistema de ajuda e metamensagem com a modelagem de interação como conversa.
+
+- **Projeto de interação e interface:**  A avaliação deste Design e focado na comuniação do usuário para alcançar seus objetivos sendo projetada para eles,mas não por eles.
+
+
+### Conclusão de escolha do tipo de processo de Design
+
+
+
 
 
 
