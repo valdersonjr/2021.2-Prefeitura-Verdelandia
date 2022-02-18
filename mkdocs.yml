@@ -12,13 +12,13 @@ extra_css:
 
 nav:
   - Início: index.md
-  - Documentação:
+  - I. Planejamento do Projeto e Processo de Design:
+    - Planejamento:
       - Cronograma do Projeto: documentos/Cronograma.md
       - Metodologia: documentos/Metodologia.md
       - Ferramentas: documentos/Ferramentas.md
-      - Processos: documentos/Processos.md
-  - Planejamento:
       - Sites Avaliados: documentos/SitesAvaliados.md
       - Site Escolhido: documentos/SiteEscolhido.md
+    - Processos de Design: documentos/Processos.md
   - Apresentações:
       - Ponto de controle 1: documentos/Apresentacao_PC1.md
