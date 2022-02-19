@@ -42,7 +42,8 @@ O objetivo do cronograma do projeto é prover uma visualização rápida da divi
 
 ## Histórico de versionamento
 
-| Data  | Versão | Descrição | Autor |
-| :--:  | :----: | :-------: | :---: |
-| 09/02 | 1.0.0  | Criação do cronograma | Antonio Igor |
-| 10/02 | 1.0.1  | Alteração no formato do cronograma | Antonio Igor |
+| Data  | Versão | Descrição | Autor | Revisor |
+| :--:  | :----: | :-------: | :---: | :-----: |
+| 09/02 | 1.0.0  | Criação do cronograma                     | Antonio Igor | Valderson
+| 10/02 | 1.0.1  | Alteração no formato do cronograma        | Antonio Igor | Valderson
+| 19/02 | 1.0.2  | Adição do tópico de objetivo ao documento | Antonio Igor | Eliseu Kadesh
