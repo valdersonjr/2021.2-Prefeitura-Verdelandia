@@ -1,10 +1,12 @@
-# Objetivo
+# Cronograma
+
+## Objetivo
 
 <p align="justify">
 O objetivo do cronograma do projeto é prover uma visualização rápida da divisão cronológica do semestre conforme especificado no plano de ensino. As tabelas de atividades listam as principais tarefas que foram realizadas durante uma sprint. Cada Sprint está relacionada com uma entrega da disciplina e também a gravação de uma apresentação.
 </p>
 
-## Cronograma do Projeto
+## Cronograma do projeto
 
 | Sprint | Descrição       | Data                                           | Apresentação        |
 | :------: | :----------: | :---------------------------------------------------: | :------------: |
@@ -17,7 +19,11 @@ O objetivo do cronograma do projeto é prover uma visualização rápida da divi
 | VII    | Relato dos resultados do Protótipo de Papel, o Planejamento do protótipo de alta fidelidade | 07/04 ~ 11/04 | 12/04 |
 | VIII    | Projeto final | 12/04 ~ 25/04 | 26/04 ~ 28/04 |
 
-## Tabela de tarefas 
+<center>
+  Tabela 1 - Cronograma do projeto
+</center>
+
+## Tabelas de tarefas 
 
 ### Sprint 1
 | Tarefas         | Responsável | Revisor   | Entrega Limite |
@@ -30,6 +36,9 @@ O objetivo do cronograma do projeto é prover uma visualização rápida da divi
 | Organização dos planejamentos de avaliação dos membros | Valderson   | Rodrigo   | 11/02            |
 | Gravação da apresentação 1  | Todos       | Todos     | 13/02            |
 
+<center>
+  Tabela 2 - Tarefas da Sprint 1
+</center>
 
 ## Histórico de versionamento
 
