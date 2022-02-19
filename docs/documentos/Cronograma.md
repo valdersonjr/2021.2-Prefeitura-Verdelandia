@@ -1,4 +1,12 @@
-# Cronograma do Projeto
+# Cronograma
+
+## 1. Objetivo
+
+<p align="justify">
+O objetivo do cronograma do projeto é prover uma visualização rápida da divisão cronológica do semestre conforme especificado no plano de ensino. As tabelas de atividades listam as principais tarefas que foram realizadas durante uma sprint. Cada Sprint está relacionada com uma entrega da disciplina e também a gravação de uma apresentação.
+</p>
+
+## 2. Cronograma do projeto
 
 | Sprint | Descrição       | Data                                           | Apresentação        |
 | :------: | :----------: | :---------------------------------------------------: | :------------: |
@@ -11,9 +19,13 @@
 | VII    | Relato dos resultados do Protótipo de Papel, o Planejamento do protótipo de alta fidelidade | 07/04 ~ 11/04 | 12/04 |
 | VIII    | Projeto final | 12/04 ~ 25/04 | 26/04 ~ 28/04 |
 
-## Tabela de tarefas 
+<center>
+  Tabela 1 - Cronograma do projeto
+</center>
 
-### Sprint 1
+## 3. Tabelas de tarefas 
+
+### 3.1 Sprint 1
 | Tarefas         | Responsável | Revisor   | Entrega Limite |
 | :-----:         | :---------: | :-----:   | :--------------: |
 | Implementação do GitHub Pages    | Rodrigo	    | Eliseu    | 11/02            |
@@ -24,10 +36,14 @@
 | Organização dos planejamentos de avaliação dos membros | Valderson   | Rodrigo   | 11/02            |
 | Gravação da apresentação 1  | Todos       | Todos     | 13/02            |
 
+<center>
+  Tabela 2 - Tarefas da Sprint 1
+</center>
 
 ## Histórico de versionamento
 
-| Data  | Versão | Descrição | Autor |
-| :--:  | :----: | :-------: | :---: |
-| 09/02 | 1.0.0  | Criação do cronograma | Antonio Igor |
-| 10/02 | 1.0.1  | Alteração no formato do cronograma | Antonio Igor |
+| Data  | Versão | Descrição | Autor | Revisor |
+| :--:  | :----: | :-------: | :---: | :-----: |
+| 09/02 | 1.0.0  | Criação do cronograma                     | Antonio Igor | Valderson
+| 10/02 | 1.0.1  | Alteração no formato do cronograma        | Antonio Igor | Valderson
+| 19/02 | 1.0.2  | Adição do tópico de objetivo ao documento | Antonio Igor | Eliseu Kadesh
