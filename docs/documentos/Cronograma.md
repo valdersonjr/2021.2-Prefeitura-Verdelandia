@@ -1,4 +1,10 @@
-# Cronograma do Projeto
+# Objetivo
+
+<p align="justify">
+O objetivo do cronograma do projeto é prover uma visualização rápida da divisão cronológica do semestre conforme especificado no plano de ensino. As tabelas de atividades listam as principais tarefas que foram realizadas durante uma sprint. Cada Sprint está relacionada com uma entrega da disciplina e também a gravação de uma apresentação.
+</p>
+
+## Cronograma do Projeto
 
 | Sprint | Descrição       | Data                                           | Apresentação        |
 | :------: | :----------: | :---------------------------------------------------: | :------------: |
