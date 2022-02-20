@@ -1,12 +1,15 @@
 # Processos de Design
 ## 1. O que e processo de design ?
 
+<p align="justify">
 Processo de Design e a junção de atividades básicas como analíse de situação, a sintese de uma intervenção projetada ou ja aplicada a situação atual do projeto.Em cada processo detalha as atividades basicas: executar cada atividade, sequência a serem executadas, atividades a serem repetidas, arfetafos consumidos e produzidos em cada uma delas
-
+</p>
+  
 ## 2. Objetivos
 
+<p align="justify">
 Busca atender e servir em primeiro lugar aos usuários e aos demais envolvidos, e não ás tecnologias. Esses processos sãos centrados no usuário e seguem os principios (Gould e Lewis, 1985).
-         
+</p>     
          
 - **Foco no usuario:** O Designer deve projetar a interação e a interface para atender as necessidades dos usuários para alcançarem seus objetivos
 - **Métricas observáveis:** O processo de design deve permitir a realização de experimentos que usem simulações ou protótipos do sistema para realizar suas atividades e objetivos
@@ -41,8 +44,11 @@ Nielsen definiu como um conjunto de atividades que devem ser feitas durante o pr
 
 
 ### 3. Engenharia de Usabilidade de Mayhew
+
+<p align="justify">
 Mayhew  propôs um ciclo de vida para a engenharia de usabilidade em 1999. Com uma visão
 que busca  compreender os fenômenos na sua totalidade , esse processo de design reúne e organiza diferentes atividades em IHC para orientar o trabalho do designer em  uma boa solução interativa.Mayhem apresentou 3 fases de processos iterativos que este são:
+</p>
 
 - **Análise de requisitos:**  são definidas as metas de usabilidade com base no perfil dos
 usuários, análisação de tarefas com possibilidades e limitações da plataforma em que o sistema é executado .
@@ -66,9 +72,12 @@ atenda às metas de usabilidade estabelecidas na fase anterior.
 É um processo que utiliza diferentes tipos de cenários como representação básica e fundamental durante todas as atividades envolvidas na concepção de uma solução de IHC .
 
 ### 6. Design Dirigido por Objetivos
+
+<p align="justify">
 O design dirigido por objetivos é um processo sistemático proposto para investigar e atender às
 necessidades e aos objetivos dos usuários.Guiar o designer a projetar uma solução de IHC que seja criativa e apoie os usuários a atingirem seus objetios, sendo o diferencial incetivar o designar a explorar tecnologias em todo seu potencial para oferecer manerias diversificados para os usuários chegarem aos seus objetivos.Esse processo é dividido em seis fases : pesquisar, modelar, definir requisitos,projetar, refinar e manter.
-
+</p>
+  
 - **Pesquisa:**  o designer está empenhando em conhecer o usuário e investigar os comportamentos no qual encaminha seus objetivos e motivações nas atividades enquanto manipula alguns artefatos, o domínio do sistema e o contextode uso. 
 
 - **Modelagem:**  tem como  meta organizar e registrar o conhecimento adquirido durante a fase de pesquisa através da criação de modelos do usuário pelo, domínio e contexto de uso.
@@ -81,8 +90,10 @@ nos modelos para definir os requisitos para os usuários, negócios e técnicos.
 - **Refinar e manter:**  É um polimento da documentação detalhada da solução de interação e de interface projetada.Alem de manter a coerência da solução proposta enquanto acomoda as limitações técnicas imprevistas.
 
 ### 7. Design Centrado na Comunicação
+<p align="justify">
 O design centrado na comunicação (Barbosa et al., 2005) tem como base teórica a engenharia semiótica que ve a IHC como uma comunicação mediada por computador entre designers e usuários em tempo de interação. O sistema fala em nome de seus criadores em vários tipos de conversas especificado em tempo de design.
-
+</p>
+  
 - **Análise:**  O foco da análise e observar cada individuo envolvidos no processo de design.
 
 - **Projeto de interação e interface:**  Elaboração do sistema de ajuda e metamensagem com a modelagem de interação como conversa.
@@ -91,11 +102,11 @@ O design centrado na comunicação (Barbosa et al., 2005) tem como base teórica
 
 
 ## Conclusão de escolha do tipo de processo de Design
+<p align="justify">
+Escolhemos o Mayhem após uma reunião com todo o time e a realização de uma votação.
+</p>
 
-Nos escolhemos o Mayhem por ser mais compativel com o nosso projeto por ser tratar de um método que não necessita de um contato direto com os usuários, facilitando o desenvolvimento do projeto de forma remota.
-
-
-## referências
+## Referências
 
 BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Rio de Janeiro, 2021.
 
