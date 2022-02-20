@@ -35,7 +35,7 @@ Levantamento de todas as ferramentas que serão utilizadas para o desenvolviment
 
 **Figma, 2022**. Disponível em: <<https://www.figma.com/about>>. Acesso em: 14 fevereiro 2022.
 
-**Microsoft Teams, 2022**. Disponível em: <<https://support.microsoft.com/en-us/office/get-started-with-microsoft-teams-b98d533f-118e-4bae-bf44-3df2470c2b12#:~:text=Microsoft%20Teams%20is%20a%20collaboration,projects%2C%20or%20just%20for%20fun.>>. Acesso em: 14 fevereiro 2022.
+**Microsoft Teams, 2022**. Disponível em: <<https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software>>. Acesso em: 14 fevereiro 2022.
 
 **Microsoft Excel, 2022**. Disponível em: <<https://www.microsoft.com/pt-br/microsoft-365/excel>>. Acesso em: 14 fevereiro 2022.
 
