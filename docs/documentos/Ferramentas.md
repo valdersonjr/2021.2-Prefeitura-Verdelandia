@@ -52,4 +52,4 @@ Levantamento de todas as ferramentas que serão utilizadas para o desenvolviment
 |11/02/2022|1.0.2|Adicionando mais algumas ferramentas.| Douglas Monteles| Erick Levy |
 |11/02/2022|1.0.3|Corringindo a axibição de algumas imagens das ferramentas.| Douglas Monteles | Erick Levy |
 |12/02/2022|1.0.4|Corringindo o caminho das imagens| Douglas Monteles | Erick Levy |
-|19/02/2022|1.0.5|Correções após o feedback da entrega 1| Douglas Monteles |  |
+|19/02/2022|1.0.5|Correções após o feedback da entrega 1| Douglas Monteles | Antonio Igor |
