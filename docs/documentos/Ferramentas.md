@@ -1,4 +1,8 @@
-## Ferramentas
+## 1. Ferramentas
+
+<p style="text-align: justify">
+Levantamento de todas as ferramentas que serão utilizadas para o desenvolvimento deste projeto, bem como uma breve descrição de sua utilidade para a execução das tarefas.
+</p>
 
 | Ferramenta | Descrição |
 |-|-|
@@ -13,12 +17,39 @@
 |<img style="width: 80px; border-radius: 20px" src="../../assets/vscode.jpg">| <p style="text-align: justify">Visual Studio Code é uma ferramenta para a criação e edição de projetos nas mais diversas linguagens de programação, neste projeto ele é utilizado para criar e editar documentos em Markdown (.md).</p>|
 |<img style="width: 80px; border-radius: 20px" src="../../assets/discord.png">| <p style="text-align: justify">O Discord é utilizado para as reuniões online do grupo para tratar sobre as Sprints e outros assuntos relacionados ao projeto.</p>|
 
+<center>
+  Tabela 1: Ferramentas utilizadas no projeto
+</center>
+
+## Referências
+
+**Git, 2022**. Disponível em: <<https://git-scm.com>>. Acesso em: 14 fevereiro 2022.
+
+**GitHub, 2022**. Disponível em: <<https://github.com/about>>. Acesso em: 14 fevereiro 2022.
+
+**Telegram, 2022**. Disponível em: <<https://telegram.org/faq#p-o-que-e-telegram-o-que-faco-aqui>>. Acesso em: 14 fevereiro 2022.
+
+**Trello, 2022**. Disponível em: <<https://trello.com/tour>>. Acesso em: 14 fevereiro 2022.
+
+**YouTube, 2022**. Disponível em: <<https://about.youtube>>. Acesso em: 14 fevereiro 2022.
+
+**Figma, 2022**. Disponível em: <<https://www.figma.com/about>>. Acesso em: 14 fevereiro 2022.
+
+**Microsoft Teams, 2022**. Disponível em: <<https://support.microsoft.com/en-us/office/get-started-with-microsoft-teams-b98d533f-118e-4bae-bf44-3df2470c2b12#:~:text=Microsoft%20Teams%20is%20a%20collaboration,projects%2C%20or%20just%20for%20fun.>>. Acesso em: 14 fevereiro 2022.
+
+**Microsoft Excel, 2022**. Disponível em: <<https://www.microsoft.com/pt-br/microsoft-365/excel>>. Acesso em: 14 fevereiro 2022.
+
+**Visual Studio Code, 2022**. Disponível em: <<https://visualstudio.microsoft.com/pt-br>>. Acesso em: 14 fevereiro 2022.
+
+**Discord, 2022**. Disponível em: <<https://discord.com/company>>. Acesso em: 14 fevereiro 2022.
+
 ## Histórico de versionamento
 
-|Data|Versão|Descrição|Autor|
-|-|-|-|-|
-|03/02/2022|1.0.0|Criação da tabela de ferramentas.| Douglas Monteles |
-|11/02/2022|1.0.1|Adicionando as imagens.| Douglas Monteles |
-|11/02/2022|1.0.2|Adicionando mais algumas ferramentas.| Douglas Monteles|
-|11/02/2022|1.0.3|Corringindo a axibição de algumas imagens das ferramentas.| Douglas Monteles |
-|12/02/2022|1.0.3|Corringindo o caminho das imagens| Douglas Monteles |
+|Data|Versão|Descrição|Autor|Revisor
+|-|-|-|-|-|
+|03/02/2022|1.0.0|Criação da tabela de ferramentas.| Douglas Monteles | Erick Levy |
+|11/02/2022|1.0.1|Adicionando as imagens.| Douglas Monteles | Erick Levy |
+|11/02/2022|1.0.2|Adicionando mais algumas ferramentas.| Douglas Monteles| Erick Levy |
+|11/02/2022|1.0.3|Corringindo a axibição de algumas imagens das ferramentas.| Douglas Monteles | Erick Levy |
+|12/02/2022|1.0.4|Corringindo o caminho das imagens| Douglas Monteles | Erick Levy |
+|19/02/2022|1.0.5|Correções após o feedback da entrega 1| Douglas Monteles |  |
