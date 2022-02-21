@@ -64,7 +64,7 @@ Segundo a avaliação de Valderson, os principais problemas de usabilidade são 
 
 <p align="justify"> O site da Polícia Civil do Distrito Federal oferece vários serviços ao cidadão, assim como informações sobre as unidades policiais, notícias gerais, disk denúncia e entre outros.</p>
 <br>
-<p align="justify">Durante a avaliação do site, o integrante Erick Levy Barbosa Santos notou que o memso apresenta problemas com o tempo de resposta durante a interação com sua interface.</p>
+<p align="justify">Durante a avaliação do site, o integrante Erick Levy Barbosa Santos notou que o mesmo apresenta problemas com o tempo de resposta durante a interação com sua interface.</p>
 <br></br>
 
 
@@ -103,3 +103,4 @@ Segundo a avaliação de Valderson, os principais problemas de usabilidade são 
 | Data | Versão | Descrição | Autor |
 | - | - | - | - |
 | 12/02/2022 | 1.0.0 | Criação da página de sites avaliados. | Valderson Pontes e Antonio Igor |
+| 20/02/2022 | 1.0.1 | Erro de gramática corrigido. | Antonio Igor |
