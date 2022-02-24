@@ -66,3 +66,29 @@ Luis tem 29 anos e é casado.Atualmente, Luís mora na cidade e trabalha como ra
 <p align="justify">
 Lara tem 34 anos e é uma nova habitante da cidade. Ela é casada e tem tres filhas. Ela passa o dia cuidando de sua casa e, ao final da tarde quando a programação da televisão aberta não lhe agrada, ela gosta de ler jornal para ver as notícias.
 </p>
+  
+## 3. Antipersona
+### 3.1 Gustavo Capone
+<center>
+
+![persona](../../assets/capone.jpg)
+
+<figcaption>Imagem 4: Antipersona Gustavo Capone.</figcaption>
+
+</center>
+
+- Idade: 21.
+- Sexo: Masculino.
+- Escolaridade: Cursando o Ensino Superior.
+- Profissão: Estudante e trabalhador na área de Tecnologia da Informação.
+- Expectativas: Deseja acessar o site da Prefeitura de Verdelândia para aprender mais sobre a cidade.
+
+<p align="justify">
+Gustavo Capone é um jovem que mora em Goianésia (PA) com sua mãe. Pela manhã ele estuda na Faculdade de Tecnologia do Pará e, no período vespertino, faz estágio na empresa do seu tio. À noite, quando chega em casa, Gustavo gosta de acessar a internet e entreter-se com jogos online.
+</p>
+  
+## Versionamento
+
+| Data | Versão | Descrição | Autor |
+| - | - | - | - |
+| 24/02/2022 | 1.0.0 | Criação da página das personas. | Valderson Pontes e Antonio Igor |
